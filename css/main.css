@@ -1,0 +1,22 @@
+.grace h1 {
+  font-weight:40px;
+    color:darkcyan;
+    font-family: monospace;
+}
+.grace h2, h3 {
+    color: chocolate;
+}
+.graceimg{
+    text-align: center;
+    border-color: darkcyan;
+    margin: auto;
+    border-style: dashed;
+}
+.gimg1 , .gimg2, .gimg3 {
+    text-align: center;
+}
+.grace{
+    background-color: aquamarine;
+    font-size: 14px;  
+}
+
