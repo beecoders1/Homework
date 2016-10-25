@@ -1,3 +1,16 @@
+.sayda{
+   font-size: bol;
+}
+.sayda h1{
+    font-size: 22px;
+    font-family: cursive;
+}
+.sayda li{
+  font-size: 20px  
+    }
+.sayda img{
+    border: 5px solid black;
+}
 .maribel h1{
     color:darkcyan;
 }
