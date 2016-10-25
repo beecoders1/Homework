@@ -1,4 +1,26 @@
 
+.maday {
+    text-align: center;
+    color: gold;
+}
+.maday a {
+    text-decoration: none;    
+    color: gold;
+    font-size: 40px;
+    font-weight: 500;
+}
+.maday img {
+    border: gold 7px solid;    
+}
+.maday h3, ol {
+    color: black;
+    text-align: left;
+}
+
+.maribel h1, h2{
+    color:darkcyan;
+}
+
 .sayda{
    font-size: bol;
 }
@@ -15,6 +37,7 @@
 .maribel h1{
     color:darkcyan;
 }
+
 .grace h1 {
   font-weight:40px;
     color:darkcyan;
@@ -40,5 +63,3 @@
 .maribel h1{
     color:darkcyan;
 }
-
->>>>>>> 2ac3af0853db648bac9787ddaecf255ab4d08f48
