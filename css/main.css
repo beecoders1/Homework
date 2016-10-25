@@ -1,0 +1,17 @@
+.maday {
+    text-align: center;
+    color: gold;
+}
+.maday a {
+    text-decoration: none;    
+    color: gold;
+    font-size: 40px;
+    font-weight: 500;
+}
+.maday img {
+    border: gold 7px solid;    
+}
+.maday h3, ol {
+    color: black;
+    text-align: left;
+}
