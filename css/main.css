@@ -1,0 +1,65 @@
+
+.maday {
+    text-align: center;
+    color: gold;
+}
+.maday a {
+    text-decoration: none;    
+    color: gold;
+    font-size: 40px;
+    font-weight: 500;
+}
+.maday img {
+    border: gold 7px solid;    
+}
+.maday h3, ol {
+    color: black;
+    text-align: left;
+}
+
+.maribel h1, h2{
+    color:darkcyan;
+}
+
+.sayda{
+   font-size: bol;
+}
+.sayda h1{
+    font-size: 22px;
+    font-family: cursive;
+}
+.sayda li{
+  font-size: 20px  
+    }
+.sayda img{
+    border: 5px solid black;
+}
+.maribel h1{
+    color:darkcyan;
+}
+
+.grace h1 {
+  font-weight:40px;
+    color:darkcyan;
+    font-family: monospace;
+}
+.grace h2, h3 {
+    color: chocolate;
+}
+.graceimg{
+    text-align: center;
+    border-color: darkcyan;
+    margin: auto;
+    border-style: dashed;
+}
+.gimg1 , .gimg2, .gimg3 {
+    text-align: center;
+}
+.grace{
+    background-color: aquamarine;
+    font-size: 14px;  
+}
+
+.maribel h1{
+    color:darkcyan;
+}
