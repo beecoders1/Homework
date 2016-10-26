@@ -2,24 +2,27 @@
 
 body{
     background: #fffffa;
+    font-family: "Berlin Sans FB";
+    background-color: #C3FEF6;
+    text-align: center;
 }
 
 .maday {
-    text-align: center;
-    color: gold;
+    
+    color:#00927E;
 }
 .maday a {
     text-decoration: none;    
-    color: gold;
+    color: #00927E;
     font-size: 40px;
     font-weight: 500;
 }
 .maday img {
-    border: gold 7px solid;    
+    border: #62FCE7 solid;    
 }
 .maday h3, ol {
     color: black;
-    text-align: left;
+    
 }
 
 .maribel h1, h2{
@@ -31,7 +34,7 @@ body{
 }
 .sayda h1{
     font-size: 22px;
-    font-family: cursive;
+   
 }
 .sayda li{
   font-size: 20px  
@@ -46,7 +49,7 @@ body{
 .grace h1 {
   font-weight:40px;
     color:darkcyan;
-    font-family: monospace;
+   
 }
 .grace h2, h3 {
     color: chocolate;
@@ -55,13 +58,13 @@ body{
     text-align: center;
     border-color: darkcyan;
     margin: auto;
-    border-style: dashed;
+    
 }
 .gimg1 , .gimg2, .gimg3 {
     text-align: center;
 }
 .grace{
-    background-color: aquamarine;
+   
     font-size: 14px;  
 }
 
@@ -72,7 +75,7 @@ body{
 header {
 	width:100%; /* Establecemos que el header abarque el 100% del documento */
 	overflow:hidden; /* Eliminamos errores de float */
-	background:#252932;
+	background:#0084B5;
 	margin-bottom:20px;
 }
 
@@ -142,15 +145,7 @@ header nav a:hover {
         text-align:center;
         line-height: 100px;
     }
-}
-
-.header .logo,
-header nav {
-		width:100%;
-		text-align:center; /*Centramos el menu y el logotipo*/
-		line-height:100px;
-	}
- 
+    
 	.header2 {
 		height:auto;
 	}
@@ -160,3 +155,4 @@ header nav {
 		line-height:50px;
 	}
 }
+
